@@ -9,6 +9,6 @@
 
 Лабораторные: https://drive.google.com/drive/folders/1jYTRmno4GB8uuj9bmzPbCPDap810lmAk?usp=sharing
 
-Список группы:
+Список группы: https://docs.google.com/spreadsheets/d/1Rh-atPQ_wTOJ0qyhMh2YGaxBjyVommT9jJ5bFq4DYmc/edit?usp=sharing
 
 Отчеты коммитаем в reports/<Ваша_фамилия>/<Номер_лабораторной_работы>
